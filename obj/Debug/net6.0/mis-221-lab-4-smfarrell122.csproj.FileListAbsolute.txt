@@ -1,0 +1,15 @@
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/obj/Debug/net6.0/mis-221-lab-4-smfarrell122.csproj.AssemblyReference.cache
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/obj/Debug/net6.0/mis-221-lab-4-smfarrell122.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/obj/Debug/net6.0/mis-221-lab-4-smfarrell122.AssemblyInfoInputs.cache
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/obj/Debug/net6.0/mis-221-lab-4-smfarrell122.AssemblyInfo.cs
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/obj/Debug/net6.0/mis-221-lab-4-smfarrell122.csproj.CoreCompileInputs.cache
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/bin/Debug/net6.0/mis-221-lab-4-smfarrell122
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/bin/Debug/net6.0/mis-221-lab-4-smfarrell122.deps.json
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/bin/Debug/net6.0/mis-221-lab-4-smfarrell122.runtimeconfig.json
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/bin/Debug/net6.0/mis-221-lab-4-smfarrell122.dll
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/bin/Debug/net6.0/ref/mis-221-lab-4-smfarrell122.dll
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/bin/Debug/net6.0/mis-221-lab-4-smfarrell122.pdb
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/obj/Debug/net6.0/mis-221-lab-4-smfarrell122.dll
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/obj/Debug/net6.0/ref/mis-221-lab-4-smfarrell122.dll
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/obj/Debug/net6.0/mis-221-lab-4-smfarrell122.pdb
+/Users/sarahfarrell/Documents/source/repos/MIS221/mis-221-lab-4-smfarrell122/obj/Debug/net6.0/mis-221-lab-4-smfarrell122.genruntimeconfig.cache
